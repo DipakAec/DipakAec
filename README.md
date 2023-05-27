@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [MindBrew Studio](https://mindbrewstudio.com/)
 
-- 🌱 I’m currently learning **React JS, Laravel**
+- 🌱 I’m currently learning **React JS, Codeigniter**
 
 - 👨‍💻 All of my projects are available at [https://dipak3dportfolio.netlify.app/](https://dipak3dportfolio.netlify.app/)
 
