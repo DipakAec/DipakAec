@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumar Paul</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working in [MindBrew Studio](https://mindbrewstudio.com/)
+-  🔭 I’m currently working in [Albatross software services Privet ltd](https://www.albatrossoft.com/)
+- 🔭 I’m previously worked in [MindBrew Studio](https://mindbrewstudio.com/)
 
 - 🌱 I’m currently learning **React JS, Codeigniter**
 
