@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pauldipakkr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/17bilcT9uYVNxH5RyUHPA_elfuWIWXWLo](https://drive.google.com/drive/u/0/folders/17bilcT9uYVNxH5RyUHPA_elfuWIWXWLo)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gNzMFL0pbJjdxsOPtcqjw_KJRzsGaqps/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
