@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="center">
-  🔭 I’m currently working at <a href="https://www.albatrossoft.com/" target="_blank">Albatross Software Services Pvt Ltd</a><br>
-  🔭 I previously worked at <a href="https://mindbrewstudio.com/" target="_blank">MindBrew Studio</a><br>
+  🔭 I’m currently working at <a href="https://smsolutions.in/" target="_blank">SM Solutions</a> as a <strong>Web & Laravel Developer</strong><br>
+  🔭 I previously worked at <a href="https://www.albatrossoft.com/" target="_blank">Albatross Software Services Pvt Ltd</a> and <a href="https://mindbrewstudio.com/" target="_blank">MindBrew Studio</a><br>
   🌱 I’m currently learning <strong>React JS, Laravel</strong><br>
   👨‍💻 All of my projects are available at <a href="https://dipak3dportfolio.netlify.app/" target="_blank">My Portfolio</a><br>
   📫 How to reach me: <a href="mailto:pauldipakkr@gmail.com">pauldipakkr@gmail.com</a><br>
