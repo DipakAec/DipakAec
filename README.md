@@ -57,7 +57,8 @@ A passionate **Web Developer** from India.
 ---
 
 ### 📊 GitHub Stats:
-![Dipak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakpaul&show_icons=true&theme=radical)
+![Dipak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DipakAec&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpaul&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
