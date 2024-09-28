@@ -11,12 +11,21 @@ A passionate **Web Developer** from India.
 🔭 Currently working at **[SM Solutions](https://smsolutions.in/)** as a **Web & Laravel Developer**  
 🔙 Previously worked at **[Albatross Software Services Pvt Ltd](https://www.albatrossoft.com/)** and **[MindBrew Studio](https://mindbrewstudio.com/)**  
 🌱 Currently learning **React JS, Laravel**  
-🛠️ All my projects are available at:  
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-%230077b5?style=for-the-badge&logo=react&logoColor=white)](https://dipak3dportfolio.netlify.app/)  
-✉️ Reach me at:  
-[![Email](https://img.shields.io/badge/Email-Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pauldipakkr@gmail.com)  
-📄 Check my experiences here:  
-[![Resume](https://img.shields.io/badge/My_Resume-%238F7EE3?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1gNzMFL0pbJjdxsOPtcqjw_KJRzsGaqps/view?usp=sharing)
+### 🛠️ All my projects are available at:
+<a href="https://dipak3dportfolio.netlify.app/" target="_blank" style="display: inline-block; text-decoration: none; background-color: #0077b5; color: white; padding: 8px 16px; border-radius: 5px; margin: 5px; transition: background-color 0.3s ease;">
+  Portfolio
+</a>
+
+### ✉️ Reach me at:
+<a href="mailto:pauldipakkr@gmail.com" target="_blank" style="display: inline-block; text-decoration: none; background-color: #D14836; color: white; padding: 8px 16px; border-radius: 5px; margin: 5px; transition: background-color 0.3s ease;">
+  Email Me
+</a>
+
+### 📄 Check my experiences here:
+<a href="https://drive.google.com/file/d/1gNzMFL0pbJjdxsOPtcqjw_KJRzsGaqps/view?usp=sharing" target="_blank" style="display: inline-block; text-decoration: none; background-color: #8F7EE3; color: white; padding: 8px 16px; border-radius: 5px; margin: 5px; transition: background-color 0.3s ease;">
+  Resume
+</a>
+
 
 
 ---
