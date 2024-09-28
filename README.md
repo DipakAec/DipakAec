@@ -63,7 +63,8 @@ A passionate **Web Developer** from India.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipakAec&layout=compact&theme=radical)](https://github.com/DipakAec)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DipakAec&theme=radical)](https://github.com/DipakAec)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DipakAec&theme=radical)](https://github.com/DipakAec)
+
 
 ---
 
