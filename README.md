@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me:
 A passionate **Web Developer** from India.
-🔭 Currently working at **[Sustech Engineering Pvt. Ltd.](https://www.sustechengineering.au/)** as a **Jr. Software Engineer** 
+🔭 Currently working at **[Sustech Engineering Pvt. Ltd.](https://www.sustechengineering.au/)** as a **Jr. Software Engineer** <br>
 🔙 Previously worked at **[SM Solutions](https://smsolutions.in/)** , **[Albatross Software Services Pvt Ltd](https://www.albatrossoft.com/)** and **[MindBrew Studio](https://mindbrewstudio.com/)**  
 🌱 Currently learning **React JS, Laravel**  
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
