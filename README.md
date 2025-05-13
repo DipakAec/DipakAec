@@ -5,40 +5,31 @@
 
 ---
 
-### 👨‍💻 About Me:
+### About Me:
 A passionate **Web Developer** from India. <br>
-🔭 Currently working at **[Sustech Engineering Pvt. Ltd.](https://www.sustechengineering.au/)** as a **Jr. Software Engineer** <br>
-🔙 Previously worked at **[SM Solutions](https://smsolutions.in/)** , **[Albatross Software Services Pvt Ltd](https://www.albatrossoft.com/)** and **[MindBrew Studio](https://mindbrewstudio.com/)**  <br>
-🌱 Currently Working **React JS, Laravel**  
+ Currently working at **[Sustech Engineering Pvt. Ltd.](https://www.sustechengineering.au/)** as a **Jr. Software Engineer** <br>
+ Previously worked at **[SM Solutions](https://smsolutions.in/)** , **[Albatross Software Services Pvt Ltd](https://www.albatrossoft.com/)** and **[MindBrew Studio](https://mindbrewstudio.com/)**  <br>
+ Currently Working **React JS, Laravel**  
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
-  🛠️ All my projects are available at:  
-  <a href="https://dipak3dportfolio.netlify.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/My_Portfolio-%230077b5?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" style="vertical-align: middle;">
-  </a>
+  All my projects are available at:  
+  <a href="https://dipak3dportfolio.netlify.app/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/My_Portfolio-%230077b5?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" style="vertical-align: middle;">
+  </a>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  ✉️ Reach me at my Gamil:
-  <a href="mailto:pauldipakkr@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" style="vertical-align: middle;">
-  </a>
+  Reach me at my Gamil:
+  <a href="mailto:pauldipakkr@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" style="vertical-align: middle;">
+  </a>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
-  📄 Check my experiences here:
-  <a href="https://drive.google.com/file/d/1gNzMFL0pbJjdxsOPtcqjw_KJRzsGaqps/view?usp=sharing" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/My_Resume-%238F7EE3?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" style="vertical-align: middle;">
-  </a>
+  Check my experiences here:
+  <a href="https://drive.google.com/file/d/1gNzMFL0pbJjdxsOPtcqjw_KJRzsGaqps/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/My_Resume-%238F7EE3?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" style="vertical-align: middle;">
+  </a>
 </div>
-
----
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipak-kumar-paul-368379128/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/idipakaec/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dipakaec/)
-
----
 
 ### 🛠️ Tech Stack:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
