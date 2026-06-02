@@ -51,21 +51,25 @@ A results-driven **Software Engineer** specializing in building robust, scalable
 
 ---
 
----
 
 ## 📊 Git Engine Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipakAec&show_icons=true&theme=dark&bg_color=0f172a&title_color=0284c7&icon_color=7c3aed&text_color=cbd5e1" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakAec&layout=compact&theme=dark&bg_color=0f172a&title_color=0284c7&text_color=cbd5e1" alt="Top Languages" height="175" />
+  <!-- GitHub Stats Card (Using a mirror instance to bypass rate limits) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DipakAec&show_icons=true&theme=dark&bg_color=0f172a&title_color=0284c7&icon_color=7c3aed&text_color=cbd5e1" alt="GitHub Stats" height="175" />
+  
+  <!-- Top Languages Card (Using a mirror instance to bypass rate limits) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DipakAec&layout=compact&theme=dark&bg_color=0f172a&title_color=0284c7&text_color=cbd5e1" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak Card (This one works consistently) -->
   <img src="https://streak-stats.demolab.com/?user=DipakAec&theme=dark&background=0f172a&title=0284c7&fire=7c3aed&ring=0284c7" alt="GitHub Streak" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DipakAec&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+  <!-- Alternative Modern Profile Trophies (Ultra stable endpoint) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=DipakAec&theme=dracula&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
